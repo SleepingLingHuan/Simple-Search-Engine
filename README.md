@@ -8,8 +8,7 @@
  * Author: Ge Xuanyu
  * Date: January 10, 2025
  * 
- * All rights reserved. This project is for educational purposes only and may not be used, 
- * distributed, or modified without explicit permission from the author and the institution.
+ * All rights reserved. This project is for educational purposes only and may not be used, distributed, or modified without explicit permission from the author and the institution.
  *
  * @版权声明
  * 项目名称：数据结构课程设计项目4，简单搜索引擎
@@ -19,8 +18,7 @@
  * 作者：葛轩宇
  * 日期：2025年1月10日
  * 
- * 版权所有。本项目仅限于教育用途，未经作者及所属学院明确许可，
- * 不得用于其他用途、分发或修改。
+ * 版权所有。本项目仅限于教育用途，未经作者及所属学院明确许可，不得用于其他用途、分发或修改。
 
  */
 
